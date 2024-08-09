@@ -5,6 +5,7 @@ Codes from the article "Controlled cluster-based classification with neural ODEs
 **Objective:**
 
 For given $d$ and $N$, find the minimum number of discontinuities $L$ required by the control functions $(w,a,b)$ of the neural ODE
+
 $$
 \dot{x} = w(t)\sigma(a(t) \cdot x + b(t)), \quad t \in (0, T)
 $$
