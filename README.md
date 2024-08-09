@@ -23,4 +23,3 @@ $$
 \Phi_T(x_i;w,a,b)^{(d)} < 1 \quad \text{for all } x_i \text{ such that } y_i = 0.
 $$
 
-Additionally, we study the dependence of $L$ on $d$ and $N$.
